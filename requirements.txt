@@ -1,0 +1,4 @@
+beautifulsoup4
+aiohttp
+uvicorn[standard]
+fastapi
